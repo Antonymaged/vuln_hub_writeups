@@ -49,5 +49,5 @@ All activities were performed in a **controlled lab environment**.
 ## 📩 Contact
 
 If you’d like to discuss these writeups, share feedback, or collaborate on similar projects, feel free to connect:
-- GitHub: [YourGitHubProfile](https://github.com/Antonymaged)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/antony-maged-9622bb266)
+- GitHub: [GitHubProfile](https://github.com/Antonymaged)
+- LinkedIn: [LinkedInProfile](https://www.linkedin.com/in/antony-maged-9622bb266)
